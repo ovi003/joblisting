@@ -17,7 +17,7 @@ This is a simple plugin. It will inhance the WordPress functionality withou job 
 
 ### Usage
 
-Use `[joblisting]` at any posts or page to list all job in your site.
+Use `[joblisting]` at any posts or pages to list all jobs.
 
 
 
