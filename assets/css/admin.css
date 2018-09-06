@@ -1,0 +1,13 @@
+
+.jl-metabox-wrapper label{
+	font-weight: bold;
+	margin-bottom: 8px;
+	display: block;
+}
+.jl-metabox-wrapper .col-6{
+	width: 46%;
+	padding-left: 15px;
+	padding-right: 15px;
+	float: left;
+
+}

@@ -1,0 +1,36 @@
+.single-job{
+	background-color: #eee;
+	margin-bottom: 20px;
+	text-align: left;
+	overflow: hidden;
+	box-shadow: 0 0 5px #eee;
+}
+.job-title{
+	padding: 0 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.job-content{
+	padding: 5px 15px;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.col-6{
+	margin: 10px 0;
+	width: 50%;
+	float: left;
+}
+.col-6 input,
+.col-6 select{
+	width: 100%;
+}
+.text-right{
+	text-align: right;
+}
+#joblist{
+	margin-top: 20px;
+}
